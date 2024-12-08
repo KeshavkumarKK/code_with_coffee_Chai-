@@ -1,0 +1,20 @@
+{
+  "name": "nextfusion_kthakur_backend",
+  "version": "1.0.0",
+  "description": "backend code to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "cffee",
+    "Chai"
+  ],
+  "author": "keshav kumar jai krishna panday",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
